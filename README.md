@@ -1,11 +1,11 @@
 # node-test-native-demo
 This project shows how to use the new "testing" feature in node . Without installing jest or similar
 
-To run the tests, clone the repository and run the command `node test.js`
+To run the tests, clone the repository and run the command `node pruebas.js`
 
 You should see the execution of the tests in the terminal
 ```bash 
-$ node test.js
+$ node pruebas.js
 ✔ example test (0.689082ms)
 ✔ example object test (0.404505ms)
 ✔ example object test (0.119563ms)
